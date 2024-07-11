@@ -1,2 +1,2 @@
-Instruiçao para usar o projeto:
+Como usar o projeto:
  - No terminal, executar: npm run dev
